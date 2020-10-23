@@ -1,0 +1,7 @@
+{
+  "name": "cstabs",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
